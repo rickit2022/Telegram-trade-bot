@@ -1,0 +1,9 @@
+__pycache__/
+*.log
+resources/*.txt
+*.csv
+*.json
+*.png
+*.csv
+*.opus
+*.mp4

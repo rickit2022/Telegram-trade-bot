@@ -1,0 +1,8 @@
+#third-party
+python-telegram-bot
+google-api-python-client
+yt-dlp
+
+#built-in
+requests
+
